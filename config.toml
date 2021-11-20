@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
 # provide your domain here
-baseURL = "https://examplesite.com/"
+baseURL = "https://betterd-io.github.io/docs/"
 # theme
 theme = "dot-hugo"
 # site title
